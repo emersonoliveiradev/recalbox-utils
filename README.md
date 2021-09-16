@@ -29,6 +29,8 @@ audio.bgmusic=1
 
 Caso existam dúvidas sobre os nomes dos dispositivos de saída:
 
+```mount -o remount,rw /```
+
 ```$ xrandr```
 
 ```$ xrandr --output LVDS1 --off --output HDMI1 --mode 1366x768```
