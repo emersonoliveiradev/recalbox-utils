@@ -40,3 +40,11 @@ Para acessar o Webserver do Recalbox
 ```
 ssh root@192.168.1.XX
 ```
+
+```
+cd /recalbox/share/bios
+```
+
+```
+cd /recalbox/share/roms
+```
