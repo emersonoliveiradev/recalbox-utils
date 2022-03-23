@@ -3,13 +3,13 @@
 Acessar a página principal de Downloads
 https://download.recalbox.com/pt/
 
-# Instalção para PC
+# Instalação para PC
 
 Acessar 
 
 recalbox.conf 
 
-Para forçar a utilização do HDMI em relação a o notebook
+Para forçar a utilização da entrada de vídeo externa (HDMI)
 ```
 ## Prefered external screen retrieved from ssh : xrandr
 system.externalscreen.prefered=HDMI1
